@@ -1,0 +1,27 @@
+{
+  "name": "nodeexpresstut",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dot.js",
+  "scripts": {
+    "start": "node dot.js",
+    "dev": "nodemon dot.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Derrick-Nuby/nodeexpresstut.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Derrick-Nuby/nodeexpresstut/issues"
+  },
+  "homepage": "https://github.com/Derrick-Nuby/nodeexpresstut#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
